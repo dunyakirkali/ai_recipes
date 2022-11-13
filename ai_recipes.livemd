@@ -1,0 +1,13 @@
+# AI Recipes
+
+## Section
+
+```elixir
+openai_key = "your-openai-api-key-here"
+```
+
+```elixir
+defmodule OpenaI do
+  @uri "https://api.openai.com/v1"
+end
+```
